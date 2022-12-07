@@ -1,0 +1,17 @@
+body {
+  background-color: #171716;
+  font-family: monospace;
+  color: #FFFFFF;
+}
+.content {
+  max-width: 500px;
+  margin: auto;
+  padding: 10px;
+}
+
+.footer {
+	position: auto;
+	width: 100%;
+	text-align: center;
+	
+}
